@@ -1,4 +1,8 @@
 ﻿
+-- It is the practice of modelling your system as a sequence of events.
+
+Storing all the changes (events) to the system, rather than just its current state
+
 it is about ensuring that all changes made to the application state 
 during the entire lifetime of the application are stored as a sequece of events.
 
@@ -24,3 +28,17 @@ it can provide a lot of benefits without Event Sourcing
 Benefits:
 
 can be consumed by different applications to build their own world
+
+https://dev.to/barryosull/event-sourcing-what-it-is-and-why-its-awesome
+
+Need to present data in a new shape? Simply build up a new data structure designed to answer that query.
+This gives you complete freedom to build and implement your read models in any way you want, 
+discarding old models when they're no longer needed.
+
+
+We lose business critical information
+This is a big one. With a standard table driven system, you're only storing the current state of the world, 
+you have no idea how your system got into that state in the first place. 
+If I were to ask you "How many times has a user changed their email address" could you answer it? 
+What about "How many people added an item to their cart, then removed it, then bought that item a month later"? 
+That's a lot of useful business information that you're losing because of how you happen to store your data!
