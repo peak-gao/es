@@ -28,7 +28,8 @@ it can provide a lot of benefits without Event Sourcing
 Benefits:
 
 can be consumed by different applications to build their own world
-
+http://www.cqrs.nu/Faq/event-sourcing
+https://medium.com/@assertchris/event-sourcing-153cb9c354c3
 https://dev.to/barryosull/event-sourcing-what-it-is-and-why-its-awesome
 
 Need to present data in a new shape? Simply build up a new data structure designed to answer that query.
@@ -42,3 +43,10 @@ you have no idea how your system got into that state in the first place.
 If I were to ask you "How many times has a user changed their email address" could you answer it? 
 What about "How many people added an item to their cart, then removed it, then bought that item a month later"? 
 That's a lot of useful business information that you're losing because of how you happen to store your data!
+
+
+Generating complex business reports becomes a walk in the park in an event sourced system. You have the full history of every event that has ever happened, in chronological order, this means you can ask any question you like about that data historically.
+
+Think of the power of this! Take the earlier example, you want to know how many users removed an item from their cart and then bought it a week later. 
+In a standard web app this would take weeks of development, and once it's released, you have to wait for the data to populate before you could generate the report. 
+With an ES system, it's built in from the get go, so you can generate that report right now. You could also generate the report for any previous point in the time. In other words, you have a time machine.
