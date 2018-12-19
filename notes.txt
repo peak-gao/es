@@ -1,0 +1,26 @@
+﻿
+it is about ensuring that all changes made to the application state 
+during the entire lifetime of the application are stored as a sequece of events.
+
+
+
+talk is cheap
+
+next i will show u the code
+
+
+event sourcing is not how the vast majority of applications work today
+
+most applications work by storing the current state and use stored state to process business transactions
+
+there is still a lot of value in event sourced systems
+
+
+cqrs is difficult to use well
+it can provide a lot of benefits without Event Sourcing
+
+
+
+Benefits:
+
+can be consumed by different applications to build their own world

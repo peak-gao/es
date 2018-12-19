@@ -1,0 +1,15 @@
+E:\BaiduNetdiskDownload\CqrsInPractice-master\After\src\Logic\bin\Debug\netcoreapp2.1\Logic.deps.json
+E:\BaiduNetdiskDownload\CqrsInPractice-master\After\src\Logic\bin\Debug\netcoreapp2.1\Logic.dll
+E:\BaiduNetdiskDownload\CqrsInPractice-master\After\src\Logic\bin\Debug\netcoreapp2.1\Logic.pdb
+E:\BaiduNetdiskDownload\CqrsInPractice-master\After\src\Logic\obj\Debug\netcoreapp2.1\Logic.csprojAssemblyReference.cache
+E:\BaiduNetdiskDownload\CqrsInPractice-master\After\src\Logic\obj\Debug\netcoreapp2.1\Logic.csproj.CoreCompileInputs.cache
+E:\BaiduNetdiskDownload\CqrsInPractice-master\After\src\Logic\obj\Debug\netcoreapp2.1\Logic.AssemblyInfoInputs.cache
+E:\BaiduNetdiskDownload\CqrsInPractice-master\After\src\Logic\obj\Debug\netcoreapp2.1\Logic.AssemblyInfo.cs
+E:\BaiduNetdiskDownload\CqrsInPractice-master\After\src\Logic\obj\Debug\netcoreapp2.1\Logic.dll
+E:\BaiduNetdiskDownload\CqrsInPractice-master\After\src\Logic\obj\Debug\netcoreapp2.1\Logic.pdb
+C:\BaiduNetdiskDownload\SimpleEventSourcing\src\Logic\obj\Debug\netcoreapp2.1\Logic.csprojAssemblyReference.cache
+C:\BaiduNetdiskDownload\SimpleEventSourcing\src\Logic\obj\Debug\netcoreapp2.1\Logic.csproj.CoreCompileInputs.cache
+C:\BaiduNetdiskDownload\SimpleEventSourcing\src\Logic\obj\Debug\netcoreapp2.1\Logic.AssemblyInfoInputs.cache
+C:\BaiduNetdiskDownload\SimpleEventSourcing\src\Logic\obj\Debug\netcoreapp2.1\Logic.AssemblyInfo.cs
+C:\BaiduNetdiskDownload\SimpleEventSourcing\src\Logic\obj\Debug\netcoreapp2.1\Logic.dll
+C:\BaiduNetdiskDownload\SimpleEventSourcing\src\Logic\obj\Debug\netcoreapp2.1\Logic.pdb

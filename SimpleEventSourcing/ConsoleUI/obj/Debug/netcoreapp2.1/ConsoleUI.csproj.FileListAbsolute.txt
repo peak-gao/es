@@ -1,0 +1,12 @@
+E:\BaiduNetdiskDownload\CqrsInPractice-master\After\ConsoleUI\bin\Debug\netcoreapp2.1\ConsoleUI.deps.json
+E:\BaiduNetdiskDownload\CqrsInPractice-master\After\ConsoleUI\bin\Debug\netcoreapp2.1\ConsoleUI.runtimeconfig.json
+E:\BaiduNetdiskDownload\CqrsInPractice-master\After\ConsoleUI\bin\Debug\netcoreapp2.1\ConsoleUI.runtimeconfig.dev.json
+E:\BaiduNetdiskDownload\CqrsInPractice-master\After\ConsoleUI\bin\Debug\netcoreapp2.1\ConsoleUI.dll
+E:\BaiduNetdiskDownload\CqrsInPractice-master\After\ConsoleUI\obj\Debug\netcoreapp2.1\ConsoleUI.csproj.CoreCompileInputs.cache
+E:\BaiduNetdiskDownload\CqrsInPractice-master\After\ConsoleUI\obj\Debug\netcoreapp2.1\ConsoleUI.AssemblyInfoInputs.cache
+E:\BaiduNetdiskDownload\CqrsInPractice-master\After\ConsoleUI\obj\Debug\netcoreapp2.1\ConsoleUI.AssemblyInfo.cs
+E:\BaiduNetdiskDownload\CqrsInPractice-master\After\ConsoleUI\obj\Debug\netcoreapp2.1\ConsoleUI.csprojAssemblyReference.cache
+C:\BaiduNetdiskDownload\SimpleEventSourcing\ConsoleUI\obj\Debug\netcoreapp2.1\ConsoleUI.csprojAssemblyReference.cache
+C:\BaiduNetdiskDownload\SimpleEventSourcing\ConsoleUI\obj\Debug\netcoreapp2.1\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\BaiduNetdiskDownload\SimpleEventSourcing\ConsoleUI\obj\Debug\netcoreapp2.1\ConsoleUI.AssemblyInfoInputs.cache
+C:\BaiduNetdiskDownload\SimpleEventSourcing\ConsoleUI\obj\Debug\netcoreapp2.1\ConsoleUI.AssemblyInfo.cs
