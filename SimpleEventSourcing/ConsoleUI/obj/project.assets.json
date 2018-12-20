@@ -767,11 +767,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\BaiduNetdiskDownload\\SimpleEventSourcing\\ConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "C:\\codes\\SimpleEventSourcing\\ConsoleUI\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "C:\\BaiduNetdiskDownload\\SimpleEventSourcing\\ConsoleUI\\ConsoleUI.csproj",
+      "projectPath": "C:\\codes\\SimpleEventSourcing\\ConsoleUI\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\fengg\\.nuget\\packages\\",
-      "outputPath": "C:\\BaiduNetdiskDownload\\SimpleEventSourcing\\ConsoleUI\\obj\\",
+      "outputPath": "C:\\codes\\SimpleEventSourcing\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -11843,11 +11843,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\BaiduNetdiskDownload\\SimpleEventSourcing\\src\\Api\\Api.csproj",
+      "projectUniqueName": "C:\\codes\\SimpleEventSourcing\\src\\Api\\Api.csproj",
       "projectName": "Api",
-      "projectPath": "C:\\BaiduNetdiskDownload\\SimpleEventSourcing\\src\\Api\\Api.csproj",
+      "projectPath": "C:\\codes\\SimpleEventSourcing\\src\\Api\\Api.csproj",
       "packagesPath": "C:\\Users\\fengg\\.nuget\\packages\\",
-      "outputPath": "C:\\BaiduNetdiskDownload\\SimpleEventSourcing\\src\\Api\\obj\\",
+      "outputPath": "C:\\codes\\SimpleEventSourcing\\src\\Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -11866,8 +11866,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\BaiduNetdiskDownload\\SimpleEventSourcing\\src\\Logic\\Logic.csproj": {
-              "projectPath": "C:\\BaiduNetdiskDownload\\SimpleEventSourcing\\src\\Logic\\Logic.csproj"
+            "C:\\codes\\SimpleEventSourcing\\src\\Logic\\Logic.csproj": {
+              "projectPath": "C:\\codes\\SimpleEventSourcing\\src\\Logic\\Logic.csproj"
             }
           }
         }

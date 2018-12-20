@@ -760,11 +760,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\BaiduNetdiskDownload\\SimpleEventSourcing\\src\\Logic\\Logic.csproj",
+      "projectUniqueName": "C:\\codes\\SimpleEventSourcing\\src\\Logic\\Logic.csproj",
       "projectName": "Logic",
-      "projectPath": "C:\\BaiduNetdiskDownload\\SimpleEventSourcing\\src\\Logic\\Logic.csproj",
+      "projectPath": "C:\\codes\\SimpleEventSourcing\\src\\Logic\\Logic.csproj",
       "packagesPath": "C:\\Users\\fengg\\.nuget\\packages\\",
-      "outputPath": "C:\\BaiduNetdiskDownload\\SimpleEventSourcing\\src\\Logic\\obj\\",
+      "outputPath": "C:\\codes\\SimpleEventSourcing\\src\\Logic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -50,3 +50,17 @@ Generating complex business reports becomes a walk in the park in an event sourc
 Think of the power of this! Take the earlier example, you want to know how many users removed an item from their cart and then bought it a week later. 
 In a standard web app this would take weeks of development, and once it's released, you have to wait for the data to populate before you could generate the report. 
 With an ES system, it's built in from the get go, so you can generate that report right now. You could also generate the report for any previous point in the time. In other words, you have a time machine.
+
+
+chalenge:
+change of mindset for developing
+change of event structure needs a few ways to handle
+learning curve based on domain model not database table
+
+
+When to use:
+simple crud not suitable
+complex business
+team has members familiar with ddd
+system care about history version
+trouble shooting,analise behavior
