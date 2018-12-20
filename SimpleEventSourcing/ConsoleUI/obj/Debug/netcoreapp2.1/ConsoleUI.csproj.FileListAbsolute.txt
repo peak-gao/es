@@ -10,3 +10,13 @@ C:\BaiduNetdiskDownload\SimpleEventSourcing\ConsoleUI\obj\Debug\netcoreapp2.1\Co
 C:\BaiduNetdiskDownload\SimpleEventSourcing\ConsoleUI\obj\Debug\netcoreapp2.1\ConsoleUI.csproj.CoreCompileInputs.cache
 C:\BaiduNetdiskDownload\SimpleEventSourcing\ConsoleUI\obj\Debug\netcoreapp2.1\ConsoleUI.AssemblyInfoInputs.cache
 C:\BaiduNetdiskDownload\SimpleEventSourcing\ConsoleUI\obj\Debug\netcoreapp2.1\ConsoleUI.AssemblyInfo.cs
+C:\codes\SimpleEventSourcing\ConsoleUI\bin\Debug\netcoreapp2.1\ConsoleUI.deps.json
+C:\codes\SimpleEventSourcing\ConsoleUI\bin\Debug\netcoreapp2.1\ConsoleUI.runtimeconfig.json
+C:\codes\SimpleEventSourcing\ConsoleUI\bin\Debug\netcoreapp2.1\ConsoleUI.runtimeconfig.dev.json
+C:\codes\SimpleEventSourcing\ConsoleUI\bin\Debug\netcoreapp2.1\ConsoleUI.dll
+C:\codes\SimpleEventSourcing\ConsoleUI\bin\Debug\netcoreapp2.1\ConsoleUI.pdb
+C:\codes\SimpleEventSourcing\ConsoleUI\obj\Debug\netcoreapp2.1\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\codes\SimpleEventSourcing\ConsoleUI\obj\Debug\netcoreapp2.1\ConsoleUI.AssemblyInfoInputs.cache
+C:\codes\SimpleEventSourcing\ConsoleUI\obj\Debug\netcoreapp2.1\ConsoleUI.AssemblyInfo.cs
+C:\codes\SimpleEventSourcing\ConsoleUI\obj\Debug\netcoreapp2.1\ConsoleUI.dll
+C:\codes\SimpleEventSourcing\ConsoleUI\obj\Debug\netcoreapp2.1\ConsoleUI.pdb

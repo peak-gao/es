@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Logic", "src\Logic\Logic.cs
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{27B6DA61-E67F-45F1-AB08-4D7DDC7325DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{6C5F5FBB-EB11-472D-A1F3-F563F2A48F19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Messages", "Messages\Messages.csproj", "{A230F066-BA5D-4020-8714-042E3C82B8D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{27B6DA61-E67F-45F1-AB08-4D7DDC7325DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27B6DA61-E67F-45F1-AB08-4D7DDC7325DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27B6DA61-E67F-45F1-AB08-4D7DDC7325DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C5F5FBB-EB11-472D-A1F3-F563F2A48F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C5F5FBB-EB11-472D-A1F3-F563F2A48F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C5F5FBB-EB11-472D-A1F3-F563F2A48F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C5F5FBB-EB11-472D-A1F3-F563F2A48F19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A230F066-BA5D-4020-8714-042E3C82B8D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A230F066-BA5D-4020-8714-042E3C82B8D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A230F066-BA5D-4020-8714-042E3C82B8D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A230F066-BA5D-4020-8714-042E3C82B8D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,12 @@
+C:\codes\SimpleEventSourcing\Data\obj\Debug\netcoreapp2.1\Data.csprojAssemblyReference.cache
+C:\codes\SimpleEventSourcing\Data\obj\Debug\netcoreapp2.1\Data.csproj.CoreCompileInputs.cache
+C:\codes\SimpleEventSourcing\Data\obj\Debug\netcoreapp2.1\Data.AssemblyInfoInputs.cache
+C:\codes\SimpleEventSourcing\Data\obj\Debug\netcoreapp2.1\Data.AssemblyInfo.cs
+C:\codes\SimpleEventSourcing\Data\bin\Debug\netcoreapp2.1\Data.deps.json
+C:\codes\SimpleEventSourcing\Data\bin\Debug\netcoreapp2.1\Data.dll
+C:\codes\SimpleEventSourcing\Data\bin\Debug\netcoreapp2.1\Data.pdb
+C:\codes\SimpleEventSourcing\Data\bin\Debug\netcoreapp2.1\Messages.dll
+C:\codes\SimpleEventSourcing\Data\bin\Debug\netcoreapp2.1\Messages.pdb
+C:\codes\SimpleEventSourcing\Data\obj\Debug\netcoreapp2.1\Data.csproj.CopyComplete
+C:\codes\SimpleEventSourcing\Data\obj\Debug\netcoreapp2.1\Data.dll
+C:\codes\SimpleEventSourcing\Data\obj\Debug\netcoreapp2.1\Data.pdb

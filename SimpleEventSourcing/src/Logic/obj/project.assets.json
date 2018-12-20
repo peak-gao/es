@@ -225,6 +225,32 @@
         "runtime": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
+      },
+      "Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Messages": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Data.dll": {}
+        }
+      },
+      "Messages/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "CSharpFunctionalExtensions": "1.6.2"
+        },
+        "compile": {
+          "bin/placeholder/Messages.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Messages.dll": {}
+        }
       }
     }
   },
@@ -744,11 +770,23 @@
         "newtonsoft.json.11.0.2.nupkg.sha512",
         "newtonsoft.json.nuspec"
       ]
+    },
+    "Data/1.0.0": {
+      "type": "project",
+      "path": "../../Data/Data.csproj",
+      "msbuildProject": "../../Data/Data.csproj"
+    },
+    "Messages/1.0.0": {
+      "type": "project",
+      "path": "../../Messages/Messages.csproj",
+      "msbuildProject": "../../Messages/Messages.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
       "CSharpFunctionalExtensions >= 1.10.0",
+      "Data >= 1.0.0",
+      "Messages >= 1.0.0",
       "Microsoft.NETCore.App >= 2.1.0",
       "Newtonsoft.Json >= 11.0.2"
     ]
@@ -782,7 +820,14 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\codes\\SimpleEventSourcing\\Data\\Data.csproj": {
+              "projectPath": "C:\\codes\\SimpleEventSourcing\\Data\\Data.csproj"
+            },
+            "C:\\codes\\SimpleEventSourcing\\Messages\\Messages.csproj": {
+              "projectPath": "C:\\codes\\SimpleEventSourcing\\Messages\\Messages.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

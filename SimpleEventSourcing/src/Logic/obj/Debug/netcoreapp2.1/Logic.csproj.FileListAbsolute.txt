@@ -13,3 +13,17 @@ C:\BaiduNetdiskDownload\SimpleEventSourcing\src\Logic\obj\Debug\netcoreapp2.1\Lo
 C:\BaiduNetdiskDownload\SimpleEventSourcing\src\Logic\obj\Debug\netcoreapp2.1\Logic.AssemblyInfo.cs
 C:\BaiduNetdiskDownload\SimpleEventSourcing\src\Logic\obj\Debug\netcoreapp2.1\Logic.dll
 C:\BaiduNetdiskDownload\SimpleEventSourcing\src\Logic\obj\Debug\netcoreapp2.1\Logic.pdb
+C:\codes\SimpleEventSourcing\src\Logic\bin\Debug\netcoreapp2.1\Logic.deps.json
+C:\codes\SimpleEventSourcing\src\Logic\bin\Debug\netcoreapp2.1\Logic.dll
+C:\codes\SimpleEventSourcing\src\Logic\bin\Debug\netcoreapp2.1\Logic.pdb
+C:\codes\SimpleEventSourcing\src\Logic\obj\Debug\netcoreapp2.1\Logic.csprojAssemblyReference.cache
+C:\codes\SimpleEventSourcing\src\Logic\obj\Debug\netcoreapp2.1\Logic.csproj.CoreCompileInputs.cache
+C:\codes\SimpleEventSourcing\src\Logic\obj\Debug\netcoreapp2.1\Logic.AssemblyInfoInputs.cache
+C:\codes\SimpleEventSourcing\src\Logic\obj\Debug\netcoreapp2.1\Logic.AssemblyInfo.cs
+C:\codes\SimpleEventSourcing\src\Logic\obj\Debug\netcoreapp2.1\Logic.dll
+C:\codes\SimpleEventSourcing\src\Logic\obj\Debug\netcoreapp2.1\Logic.pdb
+C:\codes\SimpleEventSourcing\src\Logic\bin\Debug\netcoreapp2.1\Data.dll
+C:\codes\SimpleEventSourcing\src\Logic\bin\Debug\netcoreapp2.1\Messages.dll
+C:\codes\SimpleEventSourcing\src\Logic\bin\Debug\netcoreapp2.1\Data.pdb
+C:\codes\SimpleEventSourcing\src\Logic\bin\Debug\netcoreapp2.1\Messages.pdb
+C:\codes\SimpleEventSourcing\src\Logic\obj\Debug\netcoreapp2.1\Logic.csproj.CopyComplete

@@ -1,0 +1,54 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "4820fcd4523287e68f5c471023313aee5064bca0"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Data/1.0.0": {
+        "dependencies": {
+          "Messages": "1.0.0"
+        },
+        "runtime": {
+          "Data.dll": {}
+        }
+      },
+      "CSharpFunctionalExtensions/1.6.2": {
+        "runtime": {
+          "lib/net45/CSharpFunctionalExtensions.dll": {
+            "assemblyVersion": "1.6.2.0",
+            "fileVersion": "1.6.2.0"
+          }
+        }
+      },
+      "Messages/1.0.0": {
+        "dependencies": {
+          "CSharpFunctionalExtensions": "1.6.2"
+        },
+        "runtime": {
+          "Messages.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CSharpFunctionalExtensions/1.6.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Heq5jNYCHqUwYlQndhGh+yedzNTgdZdW/dlajbrpi6RLqR/El6tRQZ4d5iu8HlXdHZ2R2qMw/KOALrC8grlSnA==",
+      "path": "csharpfunctionalextensions/1.6.2",
+      "hashPath": "csharpfunctionalextensions.1.6.2.nupkg.sha512"
+    },
+    "Messages/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

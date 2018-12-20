@@ -1,7 +1,9 @@
 ﻿using System;
 using CSharpFunctionalExtensions;
+using Logic.AppServices.Commands;
+using Logic.AppServices.Queries;
 
-namespace Logic.Schedules
+namespace Logic.Utils
 {
     public sealed class Messages
     {

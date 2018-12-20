@@ -1,17 +1,26 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "e2fbc4d1d6a4859f1ef2f564f4ab7106d4effb0d"
+    "signature": "b8456c18968c2b4611b0aee67544f79e8ec8b1c0"
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
       "ConsoleUI/1.0.0": {
         "dependencies": {
+          "CSharpFunctionalExtensions": "1.14.0",
           "Newtonsoft.Json": "12.0.1"
         },
         "runtime": {
           "ConsoleUI.dll": {}
+        }
+      },
+      "CSharpFunctionalExtensions/1.14.0": {
+        "runtime": {
+          "lib/netstandard2.0/CSharpFunctionalExtensions.dll": {
+            "assemblyVersion": "1.14.0.0",
+            "fileVersion": "1.14.0.0"
+          }
         }
       },
       "Newtonsoft.Json/12.0.1": {
@@ -29,6 +38,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "CSharpFunctionalExtensions/1.14.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wqCaAOWkAfgpJLckF34HjCZ7JFTulajIQIVzul1TyyW2w1rUTAvhFBwVlQT5u43Q+F+BsURqbJSZB4y3JG5FCA==",
+      "path": "csharpfunctionalextensions/1.14.0",
+      "hashPath": "csharpfunctionalextensions.1.14.0.nupkg.sha512"
     },
     "Newtonsoft.Json/12.0.1": {
       "type": "package",

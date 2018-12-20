@@ -10,6 +10,11 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Data\Data.csproj" />
+    <ProjectReference Include="..\..\Messages\Messages.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Reference Include="System.Data.SqlClient">
       <HintPath>..\..\..\..\..\Users\Vladimir\.nuget\packages\system.data.sqlclient\4.5.1\ref\netcoreapp2.1\System.Data.SqlClient.dll</HintPath>
     </Reference>
