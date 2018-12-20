@@ -20,25 +20,25 @@ namespace ConsoleUI
 			_endpointUrl = endpointUrl;
 		}
 
-		public static async Task<IReadOnlyList<CustomerHistoryDto>> GetHistory(Guid customerId)
+		public static async Task<IReadOnlyList<CustomerHistoryDto>> GetHistoryList(Guid customerId)
 		{
-			var result = await SendRequest<List<CustomerHistoryDto>>($"?customerId={customerId}", HttpMethod.Get).ConfigureAwait(false);
+			var result = await SendRequest<List<CustomerHistoryDto>>($"GetHistoryList?customerId={customerId}", HttpMethod.Get).ConfigureAwait(false);
 			return result.Value;
 		}
 
-		public static async Task<Result> AddCustomer(CustomerDto dto)
+		public static async Task<Result> Add(CustomerDto dto)
 		{
 			Result result = await SendRequest<string>("/", HttpMethod.Post, dto).ConfigureAwait(false);
 			return result;
 		}
 
-		public static async Task<Result> DeleteCustomer(Guid id)
+		public static async Task<Result> Delete(Guid id)
 		{
 			Result result = await SendRequest<string>("/" + id, HttpMethod.Delete).ConfigureAwait(false);
 			return result;
 		}
 
-		public static async Task<Result> UpdateCustomer(CustomerDto dto)
+		public static async Task<Result> Update(CustomerDto dto)
 		{
 			Result result = await SendRequest<string>("/" + dto.Id, HttpMethod.Put, dto).ConfigureAwait(false);
 			return result;
